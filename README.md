@@ -30,5 +30,6 @@ When I perform create, update, or delete operations,
 Then the corresponding data in the database is successfully modified as per the request.
 
 ## Mock-Up
-
+![alt text](image.png)
+![alt text](image-1.png)
 ## Video-Demo
