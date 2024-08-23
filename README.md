@@ -32,4 +32,6 @@ Then the corresponding data in the database is successfully modified as per the 
 ## Mock-Up
 ![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](image-2.png)\c
 ## Video-Demo
+https://drive.google.com/file/d/1FyZ4jA3SvfVz9ps6jTcbhIOjZWzrqU07/view
